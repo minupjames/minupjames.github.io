@@ -1,0 +1,120 @@
+
+body {
+  padding-left :17rem;
+  padding-top : 0;
+  font-family: 'Open Sans', sans-serif;
+  color :white;
+  font-weight :400;
+  line-height:1.5;
+
+
+}
+p,li {
+  color:#5d6369;
+}
+
+
+#sideNav {
+  text-align : center;
+  height :100vh;
+  width : 17rem;
+}
+
+.bg {
+background-color : #2471A3;
+}
+
+
+.img-profile {
+  max-width: 12rem;
+  max-height: 12rem;
+  /* border : 0.5rem solid rgba(255, 255, 255, 0.2); */
+}
+
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Saira Extra Condensed', sans-serif;
+  text-transform : uppercase;
+  font-weight : 700;
+  color : #343a40;
+}
+
+h1 {
+  font-size : 5rem;
+  line-height : 5.5rem;
+
+}
+h2 {
+  font-size : 3.5rem;
+  line-height : 1.2rem;
+
+}
+
+.resume-section {
+  border-top :100px solid ;
+  border-bottom :100px solid ;
+  min-height : 100vh;
+  padding-top: 3rem;
+  padding-bottom :3rem;
+  background-color: #DCDCDC;
+
+}
+
+.primary_txt {
+  color : #2471A3;
+  margin-top:.5rem;
+}
+
+.subheading {
+  text-transform : uppercase;
+  font-weight : 500;
+  font-family: 'Saira Extra Condensed', sans-serif;
+  font-size: 1.35rem;
+  color:#5d6369
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-github {
+  background: #007bb5;
+  color: white;
+}
+
+.fa {
+  width: 1.5em;
+  height: 1.5em;
+  text-align: center;
+  line-height : 1.5em;
+  font-size:1.75rem;
+  text-decoration: none;
+  border-radius: 50%;
+  vertical-align : middle;
+}
+
+.resume-date {
+
+  min-width :18rem;
+}
+
+.grad-date {
+    min-width :28rem;
+}
+/* .flex-container {
+  display: flex;
+  flex-direction: column;
+
+} */
+
+
+.left_right_carousel {
+  width:6rem;
+  height:3rem;
+
+}
+.carousel-control-prev-icon {
+  margin-right:6rem ;
+}
+.carousel-control-next-icon {
+    margin-left:5rem ;
+}
